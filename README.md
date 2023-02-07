@@ -1,1 +1,1 @@
-indivual assignment for data programming
+individual assignment for data programming
